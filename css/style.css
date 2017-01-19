@@ -1,0 +1,12 @@
+.third {
+	color: red;
+	background: black;
+	font-size: 20px;
+	font-family: 'Anton', sans-serif;
+	width: 50%;	
+}
+
+.float {
+	display: flex;
+	flex-flow: row wrap;
+}
